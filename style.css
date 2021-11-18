@@ -19,3 +19,13 @@
     text-align: center;
     margin-top: 25px;
 }
+
+#red {
+    width: 50px;
+    height: 500px;
+    background-color: red;
+}
+
+#kennyDeathCounter {
+    text-align: center;
+}
